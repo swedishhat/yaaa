@@ -1,0 +1,6 @@
+[submodule "ArduinoMotionSensorExample"]
+	path = ArduinoMotionSensorExample
+	url = git@github.com:rpicopter/ArduinoMotionSensorExample.git
+[submodule "MPU9150Lib"]
+	path = MPU9150Lib
+	url = git@github.com:zeran/MPU9150Lib.git
