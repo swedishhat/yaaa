@@ -4,3 +4,9 @@
 [submodule "MPU9150Lib"]
 	path = MPU9150Lib
 	url = git@github.com:zeran/MPU9150Lib.git
+[submodule "MPU-9150_Breakout"]
+	path = MPU-9150_Breakout
+	url = git@github.com:sparkfun/MPU-9150_Breakout.git
+[submodule "i2cdevlib"]
+	path = i2cdevlib
+	url = git@github.com:jrowberg/i2cdevlib.git
