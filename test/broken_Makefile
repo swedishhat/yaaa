@@ -1,1 +1,0 @@
-CC=gccCFLAGS=-Wall -gODIR=objLDIR=../libLIBS=-lmtest:    $(CC) -o test test.o %.c

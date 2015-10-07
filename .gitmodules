@@ -10,3 +10,9 @@
 [submodule "i2cdevlib"]
 	path = i2cdevlib
 	url = git@github.com:jrowberg/i2cdevlib.git
+[submodule "tools-and-resources/Adafruit_NeoPixel"]
+	path = tools-and-resources/Adafruit_NeoPixel
+	url = git@github.com:adafruit/Adafruit_NeoPixel.git
+[submodule "tools-and-resources/i2cdevlib"]
+	path = tools-and-resources/i2cdevlib
+	url = git@github.com:jrowberg/i2cdevlib.git
